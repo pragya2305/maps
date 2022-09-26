@@ -10,7 +10,7 @@ simple typescript app
 npm install -g parcel-bundler
 ```````````````````````````````````
 
-##Start Application
+#Start Application
 
 ````````````````````````````````````
 
